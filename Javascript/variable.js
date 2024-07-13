@@ -13,3 +13,6 @@ let d;
 d = a - b;
 
 console.log(d);
+
+
+
